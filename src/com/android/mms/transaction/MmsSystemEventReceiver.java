@@ -75,8 +75,11 @@ public class MmsSystemEventReceiver extends BroadcastReceiver {
             }
             NetworkInfo mmsNetworkInfo = mConnMgr
                     .getNetworkInfo(ConnectivityManager.TYPE_MOBILE_MMS);
+
             boolean available = false;
             boolean isConnected = false;
+
+            // Check that mobile data connection is available
             if (mmsNetworkInfo != null) {
                 available = mmsNetworkInfo.isAvailable();
                 isConnected = mmsNetworkInfo.isConnected();
