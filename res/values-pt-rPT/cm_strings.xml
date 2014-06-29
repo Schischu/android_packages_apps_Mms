@@ -24,7 +24,6 @@
   <string name="toast_sending_message">A enviar a mensagem</string>
   <string name="qm_quick_reply">Responder</string>
   <string name="qm_mark_read">Ler</string>
-  <string name="message_counter_separator">de</string>
   <string name="pref_title_notification_privacy_mode_enabled">Modo de privacidade</string>
   <string name="pref_summary_notification_privacy_mode_enabled">Ocultar remetente e mensagem na barra de estado e desativar \'Resposta Rápida\'</string>
   <string name="notification_single_title_privacy_mode">Nova mensagem</string>
@@ -50,7 +49,7 @@
   <string name="template_save">Gravar</string>
   <string name="template_ctx_menu_title">AÇÕES</string>
   <string name="template_edit">Editar</string>
-  <string name="template_delete">Remover</string>
+  <string name="template_delete">Eliminar</string>
   <string name="template_list_title">Modelos</string>
   <string name="template_new_title">Novo modelo</string>
   <string name="template_insert">Inserir modelo</string>
@@ -58,7 +57,7 @@
   <string name="template_not_present_error">Não há nenhum modelo definido</string>
   <string name="template_not_present_error_title">Erro</string>
   <string name="template_select">Selecione um modelo</string>
-  <string name="template_confirm_dialog_title">Apagar?</string>
+  <string name="template_confirm_dialog_title">Eliminar?</string>
   <string name="gestures_already_present">Um gesto semelhante já está associado a outro modelo</string>
   <string name="select_template">Selecionar modelos</string>
   <string name="pref_title_templates_show_gesture">Gestos</string>
@@ -76,7 +75,7 @@
   <string name="pref_title_input_type">Tipo de teclado virtual</string>
   <string name="pref_keyboard_emoji">Mostrar tecla de Emoticons</string>
   <string name="pref_keyboard_new_line">Mostrar tecla nova linha</string>
-  <string name="pref_keyboard_unknown">Desconhecido, por favor, selecione novamente</string>
+  <string name="pref_keyboard_unknown">Desconhecido, por favor selecione novamente</string>
   <string name="pref_title_sms_split_counter">Contador de separação</string>
   <string name="pref_summary_sms_split_counter">Adiciona contador à mensagem ex. (1/2)</string>
   <string name="blacklist_title">Números Bloqueados</string>
@@ -113,4 +112,7 @@
   <string name="pref_mms_notification_vibrate_long_vib">Vibração longa</string>
   <string name="pref_mms_notification_vibrate_mult_short">Vários curtas</string>
   <string name="pref_mms_notification_vibrate_mult_long">Várias longas</string>
+  <string name="menu_insert_smiley">Inserir Emoticon</string>
+  <string name="pref_title_enable_emoticons">Suporte de emoticons</string>
+  <string name="pref_summary_enable_emoticons">Substituir emoticons de texto pela imagem equivalente</string>
 </resources>

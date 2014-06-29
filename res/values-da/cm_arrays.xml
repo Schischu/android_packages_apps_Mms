@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="pref_templates_gestures_sensitivity_entries">
     <item>1 (bredest)</item>
     <item>2</item>
@@ -29,5 +29,28 @@
     <item>10</item>
     <item>11</item>
     <item>12 (strengest)</item>
+  </string-array>
+  <string-array name="default_smiley_names">
+    <item>Glad</item>
+    <item>Trist</item>
+    <item>Blinker</item>
+    <item>Tungen stikker ud</item>
+    <item>Overrasket</item>
+    <item>Kysser</item>
+    <item>Råber</item>
+    <item>Cool</item>
+    <item>Pengemund</item>
+    <item>Fod i munden</item>
+    <item>Flov</item>
+    <item>Engel</item>
+    <item>Uafklaret</item>
+    <item>Græder</item>
+    <item>Læber forseglet</item>
+    <item>Griner</item>
+    <item>Forvirret</item>
+    <item>Hjerte</item>
+    <item>Gal</item>
+    <item>Smørret grin</item>
+    <item>Pokerfjæs</item>
   </string-array>
 </resources>
