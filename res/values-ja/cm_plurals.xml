@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="template_confirm_delete_conversation">
-    <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g>個のテンプレートが削除されます。</item>
+    <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g>個のテンプレートを削除します。</item>
   </plurals>
   <plurals name="remaining_delay_time">
     <item quantity="other">%1$d秒以内に送信します、タッチするとキャンセルします。</item>
